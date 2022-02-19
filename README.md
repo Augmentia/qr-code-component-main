@@ -20,7 +20,7 @@ I started off with this QR card project to get a little more familiar with CSS. 
 
 ### Screenshot
 
-![Image Preview](./images/mypreview.PNG)
+![Image Preview](./images/preview.PNG)
 
 ### Links
 
